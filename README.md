@@ -1,4 +1,4 @@
-# meanMedianGroupBy
+# Data analysis for Wine Dataset
 Exploratory Results of Mean, Median, Group By
 The dataset consists of 12 measurements on 6,497 samples of white and red styles of Vinho Verde wines. There are NO missing data. Descriptions of each variable are below.
 
